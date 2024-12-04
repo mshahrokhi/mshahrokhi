@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Mohammad Shahrokhi
+# Hi there! 👋 
+I'm Mohammad Shahrokhi
 
 I'm an experienced software engineer who excels in building web applications using different technologies and frameworks.  
 I love solving complex problems and creating easy-to-use solutions that satisfy clients and users.  
@@ -35,18 +36,34 @@ I'm also enthusiastic about learning new skills and staying updated with the lat
 - **PHP Developer** at **Yekta Ertebat**  
   *January 2016 – January 2020 (4 years 1 month)*  
 
-🌐 **About Me:**  
-I’m an experienced software engineer passionate about solving complex problems and building user-centric solutions. With expertise in Java and the Spring ecosystem, I excel at creating scalable, efficient applications and enjoy staying updated with the latest industry trends.
+---
 
 💡 **Skills & Expertise:**  
-- **Programming:** Java, PHP  
-- **Frameworks:** Spring Boot, Spring Framework  
-- **Technologies:** SOAP, REST  
-- **Tools:** Bash scripting  
-- **Languages:** Persian (Native), English (Proficient)
+**Programming Languages:**  
+- Java, PHP, JavaScript, Bash  
 
-📜 **Certifications:**  
-(You can list certifications if applicable or remove this section)
+**Frameworks & Libraries:**  
+- Spring Boot, Spring Framework, Spring Security, Spring Data, Hibernate, Laravel, Bootstrap  
+
+**Backend Development:**  
+- RESTful WebServices, Microservices, Service-Oriented Architecture (SOA), Financial Transaction Processing  
+
+**Tools & Technologies:**  
+- Apache Kafka, RabbitMQ, Amazon S3, Docker, Git, Gradle, Maven, JUnit, Mockito, Jira  
+
+**Web Development:**  
+- HTML5, JSON, XML Schema Definition (XSD), Web Services Description Language (WSDL)  
+
+**Database Systems:**  
+- PostgreSQL, Oracle Database, MySQL, H2, MongoDB  
+
+**Architectural Skills:**  
+- Architectural Design, Data Modeling, Zuul API Gateway, Eureka, Elastic Stack (ELK)  
+
+**Development Practices:**  
+- Server-Side Programming, Software Development, Back-End Web Development, Scrum  
+
+---
 
 💬 **Contact Me:**  
 - Email: [mohammad.shahrokhi72@gmail.com](mailto:mohammad.shahrokhi72@gmail.com)  
