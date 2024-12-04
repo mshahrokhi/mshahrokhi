@@ -1,5 +1,4 @@
-# Hi there! 👋 
-# I'm Mohammad Shahrokhi
+# Hi there! 👋 I'm Mohammad Shahrokhi
 
 I'm an experienced software engineer who excels in building web applications using different technologies and frameworks.  
 I love solving complex problems and creating easy-to-use solutions that satisfy clients and users.  
