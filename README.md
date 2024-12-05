@@ -78,10 +78,7 @@ I'm also enthusiastic about learning new skills and staying updated with the lat
 - Amazon S3, Docker, Git, Gradle, Maven, JUnit, Mockito, Jira, Scrum  
 
 **Web Development:**  
-- HTML5, JSON, XML Schema Definition (XSD), Web Services Description Language (WSDL)  
-
-**Database:**  
-- Data Modeling, PostgreSQL, Oracle Database, MySQL, MongoDB, H2  
+- HTML5, JSON, XML Schema Definition (XSD), Web Services Description Language (WSDL)   
 
 ---
 
