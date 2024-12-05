@@ -64,6 +64,16 @@ I'm also enthusiastic about learning new skills and staying updated with the lat
 - **Monitoring & Observability**:  
   - Elastic Stack: (ELK) Elasticsearch, Kibana, Logstash 
 
+**Database Skills:** 
+- **Relational Databases:**
+  - PostgreSQL, Oracle Database, MySQL, H2
+
+- **NoSQL Databases:**
+  - MongoDB, Redis
+
+- **Data Modeling:**
+  - Expertise in designing optimal data structures for diverse applications.
+
 **Tools & Technologies:**  
 - Amazon S3, Docker, Git, Gradle, Maven, JUnit, Mockito, Jira, Scrum  
 
