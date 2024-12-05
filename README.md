@@ -11,7 +11,9 @@ I'm also enthusiastic about learning new skills and staying updated with the lat
 💼 **Professional Experience:**  
 - **Senior Java Developer** at **Jiring | جیرینگ**  
   *June 2024 – Present*  
-  - Leading the development of advanced solutions.  
+  - Designing data models tailored for high-performance transactional systems.
+  - Crafting robust architectural designs to support scalable and secure financial applications.
+  - Developing microservice-based applications to enable modularity, reliability, and flexibility.
 
 - **Senior Java Developer** at **Behpardaz Hamrah Samaneh Aval (Behsa)**  
   *March 2021 – June 2024 (3 years 4 months)*  
